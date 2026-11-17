@@ -1,0 +1,17 @@
+{
+  "0": {
+    "name": "Forest",
+    "cover_image": "forest",
+    "music": [
+      "nature/leaf",
+      "nature/river"
+    ],
+    "effects": [
+      "forest/wind",
+      "forest/campfire"
+    ],
+    "hotkey": "1",
+    "sort_order": 0
+  }
+
+}
